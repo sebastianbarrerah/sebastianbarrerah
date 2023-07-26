@@ -1,6 +1,6 @@
-
+<h3 align="center">Hola, soy Sebastián Barrera</h3>
 👦 Sobre mí:
-Soy Sebastián Barrera, un estudiante apasionado por la tecnología y el mundo del desarrollo frontend. Desde joven, me ha fascinado la capacidad de la tecnología para cambiar nuestras vidas y mejorar el mundo que nos rodea. Ahora, como desarrollador en formación, estoy emocionado de explorar y contribuir al apasionante campo del desarrollo web.
+Un estudiante apasionado por la tecnología y el mundo del desarrollo frontend. Desde joven, me ha fascinado la capacidad de la tecnología para cambiar nuestras vidas y mejorar el mundo que nos rodea. Ahora, como desarrollador en formación, estoy emocionado de explorar y contribuir al apasionante campo del desarrollo web.
 
 🌱 Lo que encontrarás aquí:
 En este repositorio, podrás descubrir mi viaje de aprendizaje y crecimiento en el desarrollo frontend. Desde pequeños proyectos hasta desafiantes ejercicios de código, comparto mi proceso y los conocimientos que he ido adquiriendo en esta emocionante travesía.
