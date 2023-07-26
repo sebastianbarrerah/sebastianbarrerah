@@ -1,5 +1,5 @@
 <h3 align="center">Hola, soy Sebastián Barrera</h3>
-👦 <h4 align="left"> Sobre mí: </h4> 
+<h4 align="left"> Sobre mí: </h4> 👦
 Un estudiante apasionado por la tecnología y el mundo del desarrollo frontend. Desde joven, me ha fascinado la capacidad de la tecnología para cambiar nuestras vidas y mejorar el mundo que nos rodea. Ahora, como desarrollador en formación, estoy emocionado de explorar y contribuir al apasionante campo del desarrollo web.
 <br />
 🌱 <h4 align="left">Lo que encontrarás aquí:</h4> 
