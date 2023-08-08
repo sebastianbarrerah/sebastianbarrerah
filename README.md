@@ -5,12 +5,6 @@ Un estudiante apasionado por la tecnología y el mundo del desarrollo frontend. 
  <h4 align="left">Lo que encontrarás aquí:</h4> 🌱
 En este repositorio, podrás descubrir mi viaje de aprendizaje y crecimiento en el desarrollo frontend. Desde pequeños proyectos hasta desafiantes ejercicios de código, comparto mi proceso y los conocimientos que he ido adquiriendo en esta emocionante travesía.
 <br />
-<h4 align="left" > Mis intereses: </h4> 💡  
-Me encanta experimentar con nuevas tecnologías y lenguajes de programación. Además del desarrollo web, también estoy interesado en la experiencia del usuario y el diseño de interfaces. Estoy comprometido a seguir aprendiendo y mejorar mis habilidades cada día.
-<br />
- <h4 align="left">   Explorando proyectos: </h4> 🔍 
-Dentro de este repositorio, encontrarás una variedad de proyectos en los que he estado trabajando. Desde pequeñas aplicaciones interactivas hasta sitios web completos, cada uno representa un paso en mi aprendizaje y mi esfuerzo por mejorar como desarrollador frontend.
-<br />
  <h4 align="left"> ¡Hablemos! </h4>  📫 
 Si tienes alguna pregunta, sugerencia o simplemente deseas conectarte, no dudes en contactarme por correo electrónico o a través de mis redes sociales. ¡Me encantaría escuchar de ti!
 Gracias por visitar mi GitHub. ¡Espero que encuentres algo interesante aquí! 😄
